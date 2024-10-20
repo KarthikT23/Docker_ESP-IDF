@@ -5,6 +5,6 @@ Setting up ESP-IDF using Docker [On Windows]
    
 2. ESP - IDF: Install and setup ESP-IDF from https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html
   
-3. ESP RFC2217 Server: Download, extract and install esptool from Releases · espressif/esptool
+3. ESP RFC2217 Server: Download, extract and install esptool from https://github.com/espressif/esptool/releases
    
 
